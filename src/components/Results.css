@@ -1,0 +1,18 @@
+.ageNumber{
+    color: hsl(259, 100%, 65%);
+    font-weight: 800;
+    font-size: 80px;
+}
+h1{
+    font-weight: 700;
+    font-style: italic;
+    font-size: 70px;
+    margin-left: 10px;
+    margin: 0
+}
+.results{
+    flex-direction: column;
+    padding-bottom: 20px;
+    line-height: 70px;
+    margin-left: 20px;
+}
